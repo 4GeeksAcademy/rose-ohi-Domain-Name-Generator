@@ -1,5 +1,13 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background: rgb(242, 149, 251);
+}
+
+p{
+    color: blue;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+  
 }
